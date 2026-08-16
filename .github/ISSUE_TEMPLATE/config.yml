@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: Apache-2.0
+
+blank_issues_enabled: true
+contact_links:
+  - name: Ideas & Proposals
+    url: https://github.com/open-instrument-project/community/discussions/categories/ideas-proposals
+    about: Discuss early technical ideas and cross-standard proposals before turning them into concrete work.
+  - name: Project & Organisation
+    url: https://github.com/open-instrument-project/community/discussions/categories/project-organisation
+    about: Discuss standards process, roadmap, licensing, governance, and project-wide conventions.
+  - name: Open Instrument Projects
+    url: https://github.com/open-instrument-project/community/discussions/categories/open-instrument-projects
+    about: Share implementation experience, prototypes, and reference-project feedback.
